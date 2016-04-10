@@ -1,6 +1,6 @@
 {
   "name": "redux-idle-monitor-boilerplate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An example of redux-idle-monitor in an application.",
   "main": "lib/index.js",
   "files": [
